@@ -1,0 +1,9 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "reversed".(öŒüÃ8ğıú½ß1
+G	java:S106"+Replace this use of System.out by a logger.(Ã–Ê8ôıú½ß1
+J
+java:S1481"-Remove this unused "reversed" local variable.(öŒüÃ8õıú½ß1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8öıú½ß1
+G	java:S106"+Replace this use of System.out by a logger.(Ã–Ê8Ù÷†¾ß1
+L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ù÷†¾ß1
